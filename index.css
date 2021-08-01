@@ -67,6 +67,8 @@ article {
     border: solid 1px black;
     background-color:lightgoldenrodyellow;
     padding-left: 10px;
+    width: 100%;
+    box-sizing: border-box;
     
 }
 
