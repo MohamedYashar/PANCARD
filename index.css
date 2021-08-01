@@ -1,0 +1,79 @@
+.page{
+    
+    margin: 100px 150px;
+    box-sizing: border-box;
+    line-height: 30px;
+
+}
+
+table{
+    border: solid 1px black;
+    background-color:lightgoldenrodyellow;
+}
+
+tr{
+    border: solid 1px black;
+    text-align: left;
+    padding: 5px;
+}
+
+td{
+    border: solid 1px black;
+}
+
+.model-1{
+
+    display: inline-block;
+
+    
+}
+.model-2{
+
+    display: inline-block;
+
+
+}
+
+.container {
+    display: flex;
+    margin-top: 20px;
+
+    
+}
+
+.box-form1 {
+    flex-basis: 35%;
+    line-height: 40px;
+
+}
+.box-form2 {
+    flex-basis: 60%;
+}
+
+div .locker {
+    background-color: rgb(247, 243, 243);
+    padding: 5px 10px;
+    border: none;
+    border: 1px solid rgb(206, 204, 204);
+    color: rgb(110, 108, 108);
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+article {
+
+    line-height: 40px;
+    margin-top: -5px;
+    border: solid 1px black;
+    background-color:lightgoldenrodyellow;
+    padding-left: 10px;
+    
+}
+
+.submit_button{
+
+    border-radius: 5px;
+    font-size: large;
+    
+}
+
